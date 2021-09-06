@@ -1,0 +1,20 @@
+{
+  "name": "NodeJS-ExpressJS-SocketIO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phucpt25/NodeJs-ExpressJS-SocketIO.git",
+  "author": "'phucpt25' <'phucphan25051999'>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.3",
+    "delay": "^5.0.0",
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
